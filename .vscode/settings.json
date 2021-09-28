@@ -1,0 +1,24 @@
+// {
+//     "editor.codeActionsOnSave": null
+// }
+
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.autoIndent": true,
+    "editor.codeActionsOnSave": {
+    "source.fixAll.tslint": true,
+    "source.fixAll.eslint": true
+    },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "window.zoomLevel": -1,
+    "templates.Author": "P.J.Shand",
+    "files.autoSave": "afterDelay",
+    "update.mode": "none",
+    "terminal.integrated.rendererType": "dom",
+    "javascript.implicitProjectConfig.experimentalDecorators": true
+    }
